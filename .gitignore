@@ -20,3 +20,5 @@
 # 특정 파일 제외
 DBConn.java
 DBUtil.java
+mybatis-config.xml
+MailSender.java

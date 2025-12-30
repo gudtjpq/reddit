@@ -1,0 +1,22 @@
+# 컴파일된 클래스 파일
+*.class
+
+# 로그 파일
+*.log
+
+# 빌드 결과물
+/target/
+/build/
+/bin/
+
+# IDE 설정 파일 (팀원마다 다를 수 있음)
+.settings/
+.project
+.classpath
+.metadata/
+.idea/
+*.iml
+
+# 특정 파일 제외
+DBConn.java
+DBUtil.java
